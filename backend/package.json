@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "start": "nodemon src/app",
-    "lint": "prettier --write ."
+    "lint": "prettier --write .",
+    "build":"npm i"
+
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
