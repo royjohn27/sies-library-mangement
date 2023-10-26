@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sies-library-mangement/static/css/main.5ce4bc2a.css",
+    "main.js": "/sies-library-mangement/static/js/main.b70db4ce.js",
+    "static/js/787.cda612ba.chunk.js": "/sies-library-mangement/static/js/787.cda612ba.chunk.js",
+    "static/media/sies.png": "/sies-library-mangement/static/media/sies.82aa4730708a55c1affb.png",
+    "static/media/notification.svg?s3g3t9": "/sies-library-mangement/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/sies-library-mangement/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/sies-library-mangement/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/sies-library-mangement/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/sies-library-mangement/index.html",
+    "main.5ce4bc2a.css.map": "/sies-library-mangement/static/css/main.5ce4bc2a.css.map",
+    "main.b70db4ce.js.map": "/sies-library-mangement/static/js/main.b70db4ce.js.map",
+    "787.cda612ba.chunk.js.map": "/sies-library-mangement/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce4bc2a.css",
+    "static/js/main.b70db4ce.js"
+  ]
+}
